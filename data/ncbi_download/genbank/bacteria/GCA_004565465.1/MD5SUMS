@@ -1,0 +1,15 @@
+411ef6a7e9b36950f4335bdb5c59fce8  ./annotation_hashes.txt
+cd9f3b2a8c4040459fb672c2863a73b9  ./GCA_004565465.1_UNH_Lsal_1.0_assembly_report.txt
+df27592f04593689573370f5b46ca603  ./GCA_004565465.1_UNH_Lsal_1.0_assembly_stats.txt
+fb40500db0db208f2d9a745ab41779f3  ./GCA_004565465.1_UNH_Lsal_1.0_cds_from_genomic.fna.gz
+fd8634f98850716b0ab400da1b72ea49  ./GCA_004565465.1_UNH_Lsal_1.0_feature_count.txt
+e2106bb5abdf32a5260ecb8e60bb5c15  ./GCA_004565465.1_UNH_Lsal_1.0_feature_table.txt.gz
+50371bf0e8ac8d889ccd9b4abaf31378  ./GCA_004565465.1_UNH_Lsal_1.0_genomic.fna.gz
+d1ea7ae17c2a7e7dfc209ce20e7975c0  ./GCA_004565465.1_UNH_Lsal_1.0_genomic.gbff.gz
+8e61b9d014beb8b1d5c9cd99e0596f76  ./GCA_004565465.1_UNH_Lsal_1.0_genomic.gff.gz
+0e3a79442d8e2fc5e2eb9b4300a04e3d  ./GCA_004565465.1_UNH_Lsal_1.0_genomic.gtf.gz
+ddf4ea0f62fd563eea5b325eabcd981c  ./GCA_004565465.1_UNH_Lsal_1.0_protein.faa.gz
+ec3eb4d0de9444780340c1f21d81b405  ./GCA_004565465.1_UNH_Lsal_1.0_protein.gpff.gz
+3f1ac73c701d791a61f013f243bb0fd6  ./GCA_004565465.1_UNH_Lsal_1.0_rna_from_genomic.fna.gz
+58551248108bb5d623298867b636f089  ./GCA_004565465.1_UNH_Lsal_1.0_translated_cds.faa.gz
+669824b13e464c2991bd930561214cd4  ./GCA_004565465.1_UNH_Lsal_1.0_wgsmaster.gbff.gz

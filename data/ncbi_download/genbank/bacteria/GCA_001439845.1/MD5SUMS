@@ -1,0 +1,16 @@
+01f35e4e2ed97bfb842209534d1a1a3d  ./annotation_hashes.txt
+d7f11e8a94b14263db4aa2b7b375ee64  ./GCA_001439845.1_MG336_assembly_report.txt
+87b3741d60eb1a83f6d855f865fd03df  ./GCA_001439845.1_MG336_assembly_stats.txt
+106db071062c51c7ba292e34dff26b52  ./GCA_001439845.1_MG336_cds_from_genomic.fna.gz
+3a9819adde43f62eb1dd29a87d36f89a  ./GCA_001439845.1_MG336_fcs_report.txt
+e06568556884613209e322ee18581ab3  ./GCA_001439845.1_MG336_feature_count.txt.gz
+5a18ad3e1337865cb1f40f785a49c717  ./GCA_001439845.1_MG336_feature_table.txt.gz
+a0c92c07d3a6397ba11da54ba3806279  ./GCA_001439845.1_MG336_genomic.fna.gz
+39b5ffc134a61f8ea5af1f7bf737e9f2  ./GCA_001439845.1_MG336_genomic.gbff.gz
+2fe2860888ba8e21935e8178aad44c27  ./GCA_001439845.1_MG336_genomic.gff.gz
+82650cf1fffc633fdbed8ac7f49b2a7d  ./GCA_001439845.1_MG336_genomic.gtf.gz
+8396949755f759bb6e65db6cb3941ac4  ./GCA_001439845.1_MG336_protein.faa.gz
+ae9827b31682821b7b65c1b77043f812  ./GCA_001439845.1_MG336_protein.gpff.gz
+38da44085946ac6d90887751cfa2a37a  ./GCA_001439845.1_MG336_rna_from_genomic.fna.gz
+32c46a372f009b28182b8d13813fc4e6  ./GCA_001439845.1_MG336_translated_cds.faa.gz
+43eced7ba3e5f99d8cedf1fd892375cd  ./GCA_001439845.1_MG336_wgsmaster.gbff.gz

@@ -1,0 +1,15 @@
+dcd637813bf90a12659ab5b273e9d6e8  ./annotation_hashes.txt
+ada5c766f17e0869f74309ff0a69ed89  ./GCA_012103035.1_O.oryzae_NBRC_102588.fasta_assembly_report.txt
+f92b7e886f4f8ebeacea9935724e65c5  ./GCA_012103035.1_O.oryzae_NBRC_102588.fasta_assembly_stats.txt
+1ee26f45cf92ff9fc8f97e11a637fa4a  ./GCA_012103035.1_O.oryzae_NBRC_102588.fasta_cds_from_genomic.fna.gz
+6810e848b312677b673c988411ec9a03  ./GCA_012103035.1_O.oryzae_NBRC_102588.fasta_feature_count.txt.gz
+1c960654120479504dcbf400300f62c4  ./GCA_012103035.1_O.oryzae_NBRC_102588.fasta_feature_table.txt.gz
+edca76e65b81af9dc908d35da9866437  ./GCA_012103035.1_O.oryzae_NBRC_102588.fasta_genomic.fna.gz
+6df8b86ec6b419c5fb919ff2be2b1267  ./GCA_012103035.1_O.oryzae_NBRC_102588.fasta_genomic.gbff.gz
+c0d75c749022fa069a681b6251e4c926  ./GCA_012103035.1_O.oryzae_NBRC_102588.fasta_genomic.gff.gz
+3a3aa485260a1b65a94a7241409b3471  ./GCA_012103035.1_O.oryzae_NBRC_102588.fasta_genomic.gtf.gz
+f39db8d8a28c8d7c968162c26bad3016  ./GCA_012103035.1_O.oryzae_NBRC_102588.fasta_protein.faa.gz
+b931686aa1aee64e53e12a4ce59cc1e2  ./GCA_012103035.1_O.oryzae_NBRC_102588.fasta_protein.gpff.gz
+ecc0f1b6a428ebd4e12ae85fa2325180  ./GCA_012103035.1_O.oryzae_NBRC_102588.fasta_rna_from_genomic.fna.gz
+b2b7335c41b823e2d640de792ca4f1f9  ./GCA_012103035.1_O.oryzae_NBRC_102588.fasta_translated_cds.faa.gz
+4791c48ce3fb2af535d9d7ded032b04d  ./GCA_012103035.1_O.oryzae_NBRC_102588.fasta_wgsmaster.gbff.gz

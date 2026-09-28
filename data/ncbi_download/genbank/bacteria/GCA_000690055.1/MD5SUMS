@@ -1,0 +1,16 @@
+ccd04050ecf5c3a55b79a756d3fe126d  ./annotation_hashes.txt
+e28a3215ccf7bf95d8c88362a4cf2706  ./GCA_000690055.1_Afuliginea_assembly_report.txt
+0d74efbd50961fa3199df41b5d3b472a  ./GCA_000690055.1_Afuliginea_assembly_stats.txt
+a22ab27c7bc2833aebd7b8d9d584c31b  ./GCA_000690055.1_Afuliginea_cds_from_genomic.fna.gz
+d2bf11f73bf11828141b490d23b75284  ./GCA_000690055.1_Afuliginea_fcs_report.txt
+23a1651a6882a34109c0615def7809e4  ./GCA_000690055.1_Afuliginea_feature_count.txt.gz
+fd4193eb737dd87e6531651f2ff8301f  ./GCA_000690055.1_Afuliginea_feature_table.txt.gz
+717665faff2e8689e316e2e44834f64d  ./GCA_000690055.1_Afuliginea_genomic.fna.gz
+b0323a961f30d165863c6e0fd953c7c0  ./GCA_000690055.1_Afuliginea_genomic.gbff.gz
+773a6d7cfd8a6a1ac9c61bc7e5d719e2  ./GCA_000690055.1_Afuliginea_genomic.gff.gz
+45cff601df34710e8f4f7b6e61475863  ./GCA_000690055.1_Afuliginea_genomic.gtf.gz
+c4e4f8c4b3ffa4f1d31526069ef79562  ./GCA_000690055.1_Afuliginea_protein.faa.gz
+f7a6b9c1f44bb9adb990b547b28fab02  ./GCA_000690055.1_Afuliginea_protein.gpff.gz
+c897be5aa76d9dd8b591fca9d74bffd5  ./GCA_000690055.1_Afuliginea_rna_from_genomic.fna.gz
+0396ed6212185a661fb819b06bca95ed  ./GCA_000690055.1_Afuliginea_translated_cds.faa.gz
+062d3b31270052d3615bf3ed5afca3fd  ./GCA_000690055.1_Afuliginea_wgsmaster.gbff.gz

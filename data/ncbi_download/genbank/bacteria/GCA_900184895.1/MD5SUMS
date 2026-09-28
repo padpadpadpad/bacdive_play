@@ -1,0 +1,16 @@
+10cf653c8a6b0835f971cd95b40630a0  ./annotation_hashes.txt
+c02cfd7b3006c997b1f162bf755903f7  ./GCA_900184895.1_L.marina_CECT8899_Spades_Prokka_assembly_report.txt
+16102930f7108becfe5257909b534f04  ./GCA_900184895.1_L.marina_CECT8899_Spades_Prokka_assembly_stats.txt
+ab0c25e657f8972b1e9bceafcdd691ea  ./GCA_900184895.1_L.marina_CECT8899_Spades_Prokka_cds_from_genomic.fna.gz
+85e7945d457f7589eb8949503abed60e  ./GCA_900184895.1_L.marina_CECT8899_Spades_Prokka_fcs_report.txt
+cfb7528b8054cfe71790284c0f4ca209  ./GCA_900184895.1_L.marina_CECT8899_Spades_Prokka_feature_count.txt.gz
+4fbc54786174b0f8775aabe240418fc6  ./GCA_900184895.1_L.marina_CECT8899_Spades_Prokka_feature_table.txt.gz
+60a3d58006654bb28da4f525d8ab0872  ./GCA_900184895.1_L.marina_CECT8899_Spades_Prokka_genomic.fna.gz
+ca32d68b9bc6f12c48f423282e9a69c2  ./GCA_900184895.1_L.marina_CECT8899_Spades_Prokka_genomic.gbff.gz
+e138ebe578ac286e119472e2b1f4c2a6  ./GCA_900184895.1_L.marina_CECT8899_Spades_Prokka_genomic.gff.gz
+7e29a198fed4b8f94bc711444bcc89fc  ./GCA_900184895.1_L.marina_CECT8899_Spades_Prokka_genomic.gtf.gz
+a8b3a1a5a32b2392c195fa0dec2ad779  ./GCA_900184895.1_L.marina_CECT8899_Spades_Prokka_protein.faa.gz
+c30b23116f906d67c822bd16347e0224  ./GCA_900184895.1_L.marina_CECT8899_Spades_Prokka_protein.gpff.gz
+8aba4150526921d8eed279cbc7ff22e0  ./GCA_900184895.1_L.marina_CECT8899_Spades_Prokka_rna_from_genomic.fna.gz
+164211ff291db31019bbb7dadb01aeda  ./GCA_900184895.1_L.marina_CECT8899_Spades_Prokka_translated_cds.faa.gz
+0a4d383f27ee7af275cfb3d0014b781f  ./GCA_900184895.1_L.marina_CECT8899_Spades_Prokka_wgsmaster.gbff.gz

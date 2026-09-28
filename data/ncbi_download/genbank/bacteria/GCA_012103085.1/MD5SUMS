@@ -1,0 +1,15 @@
+98e055632b6c671de835f10cace067d7  ./annotation_hashes.txt
+7148f57cf02b63b2555052d583c744f9  ./GCA_012103085.1_O.grignonense_LMG_18954.fasta_assembly_report.txt
+ffad25f9d3ea3ee4c6132bf9e46b6e49  ./GCA_012103085.1_O.grignonense_LMG_18954.fasta_assembly_stats.txt
+e8a1f13da263087abb1878f5908296b2  ./GCA_012103085.1_O.grignonense_LMG_18954.fasta_cds_from_genomic.fna.gz
+1852b5a896a87252012adee93e62f235  ./GCA_012103085.1_O.grignonense_LMG_18954.fasta_feature_count.txt.gz
+0dcb58232a14e0451cca201bb629113d  ./GCA_012103085.1_O.grignonense_LMG_18954.fasta_feature_table.txt.gz
+45ae9dd3066a8b413fa455f0eda1caa3  ./GCA_012103085.1_O.grignonense_LMG_18954.fasta_genomic.fna.gz
+1c3adf74ddc7232d50e82c4577e3d37d  ./GCA_012103085.1_O.grignonense_LMG_18954.fasta_genomic.gbff.gz
+2a22e26d46a05f1d5300b0053e91ecfa  ./GCA_012103085.1_O.grignonense_LMG_18954.fasta_genomic.gff.gz
+747b20ef5b8055d8e16f687fb7a58bae  ./GCA_012103085.1_O.grignonense_LMG_18954.fasta_genomic.gtf.gz
+12c99cbbfe341be0636983b3dda50500  ./GCA_012103085.1_O.grignonense_LMG_18954.fasta_protein.faa.gz
+f601c4de1650d9863fbfcf1cf4dfb483  ./GCA_012103085.1_O.grignonense_LMG_18954.fasta_protein.gpff.gz
+935096718b0d890d6df087ff7f3df3ab  ./GCA_012103085.1_O.grignonense_LMG_18954.fasta_rna_from_genomic.fna.gz
+f4364278761e94375248199fc330490c  ./GCA_012103085.1_O.grignonense_LMG_18954.fasta_translated_cds.faa.gz
+aaae7dbb6dedb194a848cadbf3aeb2cd  ./GCA_012103085.1_O.grignonense_LMG_18954.fasta_wgsmaster.gbff.gz

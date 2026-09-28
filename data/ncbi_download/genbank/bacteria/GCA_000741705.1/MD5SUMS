@@ -1,0 +1,16 @@
+c233fbae5f8be7a8aad77cd00655ec75  ./annotation_hashes.txt
+c3373f397017f4eaf7f3f676a912d17b  ./GCA_000741705.1_Bifpsy_assembly_report.txt
+4c5f04643d2cac79b00934a4cb361ae2  ./GCA_000741705.1_Bifpsy_assembly_stats.txt
+c9dc0471bd4a518ce7a4df8d89c08242  ./GCA_000741705.1_Bifpsy_cds_from_genomic.fna.gz
+108d9f0b7746cd78a1dbba7a3359772d  ./GCA_000741705.1_Bifpsy_feature_count.txt.gz
+62653b560bea0b0e27648a1ef3841bed  ./GCA_000741705.1_Bifpsy_feature_table.txt.gz
+da9e384ae08b8713b0793c846f0ea94a  ./GCA_000741705.1_Bifpsy_genomic.fna.gz
+8870aca518a9989a5ea5b72a0567234d  ./GCA_000741705.1_Bifpsy_genomic.gbff.gz
+f772d8683fc2d11c3a34efb3fb364a09  ./GCA_000741705.1_Bifpsy_genomic.gff.gz
+897941d67db4fa1b9d821c1fefcbbd69  ./GCA_000741705.1_Bifpsy_genomic.gtf.gz
+77836780caac473d356bb92879229de1  ./GCA_000741705.1_Bifpsy_protein.faa.gz
+529e8bd6702c9511f7ccef600018af39  ./GCA_000741705.1_Bifpsy_protein.gpff.gz
+de6ca424c3b0a14d0d64020204d3b2c8  ./GCA_000741705.1_Bifpsy_rna_from_genomic.fna.gz
+2e87db3911167d8d56d1d9a4c2bcab81  ./GCA_000741705.1_Bifpsy_translated_cds.faa.gz
+e4755fef43ad43eac3b09cbcf89f4530  ./GCA_000741705.1_Bifpsy_wgsmaster.gbff.gz
+8c544dd2c6d6c1666b6c8bf408104d38  ./uncompressed_checksums.txt

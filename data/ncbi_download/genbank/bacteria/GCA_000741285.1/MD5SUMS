@@ -1,0 +1,15 @@
+916bb49cb4456953bf8aefa39d99743d  ./annotation_hashes.txt
+68d5f2acb92dbdcac86ade45f103f306  ./GCA_000741285.1_Bifmon_assembly_report.txt
+06aafb01bb418ef24016dce3278521a3  ./GCA_000741285.1_Bifmon_assembly_stats.txt
+bc84fe20a8908552d2d81de2d3b94de6  ./GCA_000741285.1_Bifmon_cds_from_genomic.fna.gz
+cb1e9de336bf60dcc0a2d2d0e2249ddc  ./GCA_000741285.1_Bifmon_feature_count.txt.gz
+fc21aa0a50f39797b3996e6e7b8311b0  ./GCA_000741285.1_Bifmon_feature_table.txt.gz
+9db8262cd56e2944ec5cf6c67357b064  ./GCA_000741285.1_Bifmon_genomic.fna.gz
+89a6cd67fda47628329d8415b3fd972b  ./GCA_000741285.1_Bifmon_genomic.gbff.gz
+4fe2fb82303224d0c0628d01993c7bea  ./GCA_000741285.1_Bifmon_genomic.gff.gz
+7aaaa7a43d83af4814d3775224e4e297  ./GCA_000741285.1_Bifmon_genomic.gtf.gz
+93544042b872a7c9ad966946c805f5c6  ./GCA_000741285.1_Bifmon_protein.faa.gz
+ba3092d632d1ff7cde98b7e4ff3e4958  ./GCA_000741285.1_Bifmon_protein.gpff.gz
+0655bd607302710b0cbe843570eb4c94  ./GCA_000741285.1_Bifmon_rna_from_genomic.fna.gz
+acae985ff1a43d033a856e46a6e38680  ./GCA_000741285.1_Bifmon_translated_cds.faa.gz
+d01b2b7149fa1eded8012ece72e0c401  ./GCA_000741285.1_Bifmon_wgsmaster.gbff.gz

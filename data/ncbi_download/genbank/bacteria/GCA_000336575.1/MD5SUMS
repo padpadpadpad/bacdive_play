@@ -1,0 +1,15 @@
+1c2b945e4d16e5f24fb31b114aff03a2  ./annotation_hashes.txt
+ac7871986fedcc132b5e92f46c525d9e  ./GCA_000336575.1_HalTitan1.0_assembly_report.txt
+45b0c5e9ebf96628e69ea8ba85cf5c97  ./GCA_000336575.1_HalTitan1.0_assembly_stats.txt
+330c79e39156e4b00ed1a2358d4baee3  ./GCA_000336575.1_HalTitan1.0_cds_from_genomic.fna.gz
+2a0cc1d279f1aa1aae00ae580b7754e4  ./GCA_000336575.1_HalTitan1.0_feature_count.txt
+4e30f5a840e39da0767bd1325c800567  ./GCA_000336575.1_HalTitan1.0_feature_table.txt.gz
+3d2b2512d269c82a809eeda333afb687  ./GCA_000336575.1_HalTitan1.0_genomic.fna.gz
+2bb1ba2643f5c46621e1e7c0cb4ee664  ./GCA_000336575.1_HalTitan1.0_genomic.gbff.gz
+2e5466fef33007fb406ab97faf28d7df  ./GCA_000336575.1_HalTitan1.0_genomic.gff.gz
+d9c3f6a9f443e4f7d1dad156f6ebc401  ./GCA_000336575.1_HalTitan1.0_genomic.gtf.gz
+a6d170212c19d079ceffa63c1ce08ad3  ./GCA_000336575.1_HalTitan1.0_protein.faa.gz
+105941e441ee44e4eb870bf1288baf45  ./GCA_000336575.1_HalTitan1.0_protein.gpff.gz
+a89b1bf07ca60a112c85ead56d8a7f71  ./GCA_000336575.1_HalTitan1.0_rna_from_genomic.fna.gz
+f714451f326970d83e85a22db79ed3c6  ./GCA_000336575.1_HalTitan1.0_translated_cds.faa.gz
+c15518ee17a7bed824cd88aafdef9e2d  ./GCA_000336575.1_HalTitan1.0_wgsmaster.gbff.gz

@@ -1,0 +1,16 @@
+dd8662e9e3057ff3a9cf2780e1b787a5  ./annotation_hashes.txt
+2ec264b178766641c6e5781b1724b352  ./GCA_001404155.1_N.ignavaCECT5292_PROKKA_assembly_report.txt
+8845513b3a53c11618c445eb30d1f74b  ./GCA_001404155.1_N.ignavaCECT5292_PROKKA_assembly_stats.txt
+17eaa26858bce9cc53e6ab786feeb4df  ./GCA_001404155.1_N.ignavaCECT5292_PROKKA_cds_from_genomic.fna.gz
+3f609259bdeed285d0f4072c7c7bdf6f  ./GCA_001404155.1_N.ignavaCECT5292_PROKKA_fcs_report.txt
+5abd4fa825efe6b1cd06a0b4f58267bb  ./GCA_001404155.1_N.ignavaCECT5292_PROKKA_feature_count.txt.gz
+bcfca0a96e40de0a593de49535001340  ./GCA_001404155.1_N.ignavaCECT5292_PROKKA_feature_table.txt.gz
+b8261722270c4e3b49e8925d7c6e613b  ./GCA_001404155.1_N.ignavaCECT5292_PROKKA_genomic.fna.gz
+4b550a5e4d31f75368964b27e31a189f  ./GCA_001404155.1_N.ignavaCECT5292_PROKKA_genomic.gbff.gz
+162113abab4dee5ca0079b965683db0c  ./GCA_001404155.1_N.ignavaCECT5292_PROKKA_genomic.gff.gz
+c8f68c9827ce4ffc2f75507cff1b8c27  ./GCA_001404155.1_N.ignavaCECT5292_PROKKA_genomic.gtf.gz
+107c668dc94308f2e1a1ac369c2b536d  ./GCA_001404155.1_N.ignavaCECT5292_PROKKA_protein.faa.gz
+2eb20c8220b41e8d095d4555dbcadce6  ./GCA_001404155.1_N.ignavaCECT5292_PROKKA_protein.gpff.gz
+befe5a3abf4cf277e39226fdbc5574b8  ./GCA_001404155.1_N.ignavaCECT5292_PROKKA_rna_from_genomic.fna.gz
+d2a4faa6d30b00709a0410c36b9c421a  ./GCA_001404155.1_N.ignavaCECT5292_PROKKA_translated_cds.faa.gz
+f34ecc9bd52d6c54fc96253b41824b28  ./GCA_001404155.1_N.ignavaCECT5292_PROKKA_wgsmaster.gbff.gz

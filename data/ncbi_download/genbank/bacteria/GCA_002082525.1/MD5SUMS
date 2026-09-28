@@ -1,0 +1,15 @@
+f69745d289a36af42755b7a7adf1a8c9  ./annotation_hashes.txt
+157b48fa694450be9f62ecb1048fd36e  ./GCA_002082525.1_SeNem1.0_assembly_report.txt
+46bb4277050b6e9b678e0784515247e2  ./GCA_002082525.1_SeNem1.0_assembly_stats.txt
+3fdeaa20190ee29551812a856b0dc5e4  ./GCA_002082525.1_SeNem1.0_cds_from_genomic.fna.gz
+3aab6f4aa325aa8202dde1e75dc0c2be  ./GCA_002082525.1_SeNem1.0_feature_count.txt.gz
+58d62dda3df8a05321d778f09d462f88  ./GCA_002082525.1_SeNem1.0_feature_table.txt.gz
+72c94f6b4383f5342f39aa13e34fcb9f  ./GCA_002082525.1_SeNem1.0_genomic.fna.gz
+f02972cbe4c36c523b66a17ab093b9cc  ./GCA_002082525.1_SeNem1.0_genomic.gbff.gz
+7379fb3478e59d4c1bfb5437de3f5fea  ./GCA_002082525.1_SeNem1.0_genomic.gff.gz
+1800d3083529c09240e5187bdd2ee094  ./GCA_002082525.1_SeNem1.0_genomic.gtf.gz
+9e6d6bff889e5e2a38076a36378bcb1e  ./GCA_002082525.1_SeNem1.0_protein.faa.gz
+27cea5f652b64a9553543e373e7363ae  ./GCA_002082525.1_SeNem1.0_protein.gpff.gz
+9e007e290a2342d6e11da89d35b36899  ./GCA_002082525.1_SeNem1.0_rna_from_genomic.fna.gz
+39d5e3a0b2d7f50c048d877ed2dce715  ./GCA_002082525.1_SeNem1.0_translated_cds.faa.gz
+3b5a5cef54a6ffad05874b1cbede6f7d  ./GCA_002082525.1_SeNem1.0_wgsmaster.gbff.gz

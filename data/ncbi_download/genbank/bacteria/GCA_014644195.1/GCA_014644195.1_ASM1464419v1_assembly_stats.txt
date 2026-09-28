@@ -1,0 +1,98 @@
+# Assembly Statistics Report
+# Assembly name:  ASM1464419v1
+# Organism name:  Siccirubricoccus deserti (a-proteobacteria)
+# Infraspecific name:  strain=CGMCC 1.15936
+# Taxid:          2013562
+# BioSample:      SAMD00245099
+# BioProject:     PRJDB10509
+# Submitter:      WFCC-MIRCEN World Data Centre for Microorganisms (WDCM)
+# Date:           2020-09-12
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Scaffold
+# Genome representation: full
+# WGS project:    BMKH01
+# Assembly method: gcType assembly pipeline
+# Genome coverage: 155X
+# Sequencing technology: Illumina HiSeq X Ten
+# Excluded from RefSeq: contaminated; not used as type
+# Assembly anomaly: contaminated
+# GenBank assembly accession: GCA_014644195.1
+# RefSeq assembly accession: GCF_014644195.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_014644215.1	GCF_014644215.1	Primary Assembly
+#
+# Statistic Types
+# Statistic	Description
+# component-count	Number of unique components
+# contig-L50	Number of contigs that are longer than, or equal to, the N50 length
+# contig-N50	Contig length at which 50% of total bases in assembly are in contigs of that length or greater
+# contig-count	Number of contigs
+# gc-perc	gc-count/atgc-count as percentage
+# molecule-count	Number of chromosomes and plasmids in full assembly
+# region-count	Number of genomic regions defined in full assembly
+# scaffold-L50	Number of scaffolds that are longer than, or equal to, the N50 length
+# scaffold-N50	Scaffold length at which 50% of total bases in assembly are in scaffolds of that length or greater
+# scaffold-N75	Scaffold length at which 75% of total bases in assembly are in contigs of that length or greater
+# scaffold-N90	scaffold length at which 90% of total bases in assembly are in contigs of that length or greater
+# scaffold-count	Number of scaffolds
+# spanned-gaps	Number of spanned gaps. Spanned gaps are gaps within a scaffold
+# top-level-count	Number of chromosomes or plasmids, unplaced/unlocalized scaffolds, alt-loci scaffolds, and patch scaffolds
+# total-gap-length	Total length of gaps
+# total-length	Total sequence length including bases and gaps
+# ungapped-length	Total length excluding gaps
+# unspanned-gaps	Number of unspanned gaps. Unspanned gaps are gaps between scaffolds
+#
+# Sequence-type Description
+# all	statistic covers all the sequences in the unit-assembly and molecule(s) specified.
+# molecule	statistic covers the specified molecule. molecule-name and molecule-type/loc will be given.
+# unlocalized	statistic covers the sequences assigned to a molecule but with no position. molecule-name and molecule-type/loc will be given.
+# unplaced	statistic covers the sequences not assigned to any molecule in the assembly.
+#
+# unit-name	molecule-name	molecule-type/loc	sequence-type	statistic	value
+all	all	all	all	total-length	6279333
+all	all	all	all	spanned-gaps	4
+all	all	all	all	unspanned-gaps	0
+all	all	all	all	region-count	0
+all	all	all	all	scaffold-count	300
+all	all	all	all	scaffold-N50	121388
+all	all	all	all	scaffold-L50	15
+all	all	all	all	scaffold-N75	53491
+all	all	all	all	scaffold-N90	10092
+all	all	all	all	contig-count	304
+all	all	all	all	contig-N50	121388
+all	all	all	all	contig-L50	15
+all	all	all	all	total-gap-length	381
+all	all	all	all	molecule-count	0
+all	all	all	all	top-level-count	300
+all	all	all	all	component-count	300
+all	all	all	all	gc-perc	70
+Primary Assembly	all	all	all	total-length	6279333
+Primary Assembly	all	all	all	ungapped-length	6278952
+Primary Assembly	all	all	all	scaffold-count	300
+Primary Assembly	all	all	all	scaffold-N50	121388
+Primary Assembly	all	all	all	spanned-gaps	4
+Primary Assembly	all	all	all	unspanned-gaps	0
+Primary Assembly	all	all	all	gc-perc	70
+Primary Assembly	all	all	assembled-molecule	total-length	0
+Primary Assembly	all	all	assembled-molecule	ungapped-length	0
+Primary Assembly	all	all	assembled-molecule	scaffold-count	0
+Primary Assembly	all	all	assembled-molecule	scaffold-N50	0
+Primary Assembly	all	all	assembled-molecule	spanned-gaps	0
+Primary Assembly	all	all	assembled-molecule	unspanned-gaps	0
+Primary Assembly	all	all	unlocalized-scaffold	total-length	0
+Primary Assembly	all	all	unlocalized-scaffold	ungapped-length	0
+Primary Assembly	all	all	unlocalized-scaffold	scaffold-count	0
+Primary Assembly	all	all	unlocalized-scaffold	scaffold-N50	0
+Primary Assembly	all	all	unlocalized-scaffold	spanned-gaps	0
+Primary Assembly	all	all	unlocalized-scaffold	unspanned-gaps	0
+Primary Assembly	na	na	unplaced-scaffold	total-length	6279333
+Primary Assembly	na	na	unplaced-scaffold	ungapped-length	6278952
+Primary Assembly	na	na	unplaced-scaffold	scaffold-count	300
+Primary Assembly	na	na	unplaced-scaffold	scaffold-N50	121388
+Primary Assembly	na	na	unplaced-scaffold	spanned-gaps	4
+Primary Assembly	na	na	unplaced-scaffold	unspanned-gaps	0
+Primary Assembly	na	na	unplaced-scaffold	gc-perc	70

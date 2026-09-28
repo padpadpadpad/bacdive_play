@@ -1,0 +1,16 @@
+626e3ec2bf359ade16bcb52ab3bfeab3  ./annotation_hashes.txt
+35171099916b74e09576bfc6d311ba8b  ./GCA_000498495.1_Fens1.0_assembly_report.txt
+b71639c0dc8c31c407164c34e9f70dcc  ./GCA_000498495.1_Fens1.0_assembly_stats.txt
+cbe1f66c3473f5c8057c95192f7a87ba  ./GCA_000498495.1_Fens1.0_cds_from_genomic.fna.gz
+2a7e2868ca87946054c46daed400ce5c  ./GCA_000498495.1_Fens1.0_fcs_report.txt
+f3ea12a3da99b9f1513c5be7102f66b1  ./GCA_000498495.1_Fens1.0_feature_count.txt.gz
+2b3a5cf854c55622b48032157f7a1d00  ./GCA_000498495.1_Fens1.0_feature_table.txt.gz
+16b6684c7de6fb0488a142ae1014249b  ./GCA_000498495.1_Fens1.0_genomic.fna.gz
+161d36b5e1b72ef1cd98b3f01f1ee517  ./GCA_000498495.1_Fens1.0_genomic.gbff.gz
+647ee41823ac19a348ebe77aa28b0800  ./GCA_000498495.1_Fens1.0_genomic.gff.gz
+de09f35352ae82e3f72429af3fc783cb  ./GCA_000498495.1_Fens1.0_genomic.gtf.gz
+2153483befc1c8199acfd3df2cb43163  ./GCA_000498495.1_Fens1.0_protein.faa.gz
+4f98d5f2f53ca261b560f5fb43644719  ./GCA_000498495.1_Fens1.0_protein.gpff.gz
+93ad3512f7aef542e0f31f5594b5860b  ./GCA_000498495.1_Fens1.0_rna_from_genomic.fna.gz
+1414751ff5d22541f5bd363df49ba0fa  ./GCA_000498495.1_Fens1.0_translated_cds.faa.gz
+30554af789656e55df73c450fee46503  ./GCA_000498495.1_Fens1.0_wgsmaster.gbff.gz

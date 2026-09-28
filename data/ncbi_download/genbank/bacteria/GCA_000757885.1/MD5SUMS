@@ -1,0 +1,16 @@
+7d04ea310e8d9c81a253207f35e215c2  ./annotation_hashes.txt
+bd464d5b9de25dff087206fa1f14a349  ./GCA_000757885.1_Pwynnii072014_assembly_report.txt
+01c8dc34f896b7acad0b6a12fdf86a3d  ./GCA_000757885.1_Pwynnii072014_assembly_stats.txt
+71c1b9cc00305a7f79d06733da2c9237  ./GCA_000757885.1_Pwynnii072014_cds_from_genomic.fna.gz
+766ba6722751b5092034a2fa0755a3b1  ./GCA_000757885.1_Pwynnii072014_fcs_report.txt
+685449f5d72216e0c8d9578f6c862370  ./GCA_000757885.1_Pwynnii072014_feature_count.txt.gz
+f082a7f716a2cf17d3b3421ed10cb2eb  ./GCA_000757885.1_Pwynnii072014_feature_table.txt.gz
+505f50becc4e3e7f27d55fb0e34e6170  ./GCA_000757885.1_Pwynnii072014_genomic.fna.gz
+cd08049a92f55ef3c05fe75e9c973795  ./GCA_000757885.1_Pwynnii072014_genomic.gbff.gz
+9c43f6f1d902ec10fb78abb78e313997  ./GCA_000757885.1_Pwynnii072014_genomic.gff.gz
+626569ff02555882aabdd7f2af626dae  ./GCA_000757885.1_Pwynnii072014_genomic.gtf.gz
+1bf6589ee8c07422de27782b33ae2e53  ./GCA_000757885.1_Pwynnii072014_protein.faa.gz
+3140914c3ca3a7836bd2acff6a0e4a28  ./GCA_000757885.1_Pwynnii072014_protein.gpff.gz
+9b0745ca752598c4b23f7ca1943ed789  ./GCA_000757885.1_Pwynnii072014_rna_from_genomic.fna.gz
+c83248c7add73d7be66086454a0cea89  ./GCA_000757885.1_Pwynnii072014_translated_cds.faa.gz
+1d300d3b281e7bcfb29077dfca410af4  ./GCA_000757885.1_Pwynnii072014_wgsmaster.gbff.gz

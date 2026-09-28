@@ -1,0 +1,16 @@
+26f5feb406f38171d69719b89be9453d  ./annotation_hashes.txt
+1f604aaf51aa1784886ea3459b089366  ./GCA_001650025.1_De_novo_assembly_report.txt
+fa2f915468dfde97d9ef80daf83413d8  ./GCA_001650025.1_De_novo_assembly_stats.txt
+15750227877199b422ac89cda8b0d372  ./GCA_001650025.1_De_novo_cds_from_genomic.fna.gz
+b951d9b638630e2fbd6964afc66d315f  ./GCA_001650025.1_De_novo_fcs_report.txt
+893ec22348cffeb6907072267a3300a3  ./GCA_001650025.1_De_novo_feature_count.txt.gz
+dbfd39b662d7938eb21b602117c39214  ./GCA_001650025.1_De_novo_feature_table.txt.gz
+7969036245a05a9ce63b1d296c488669  ./GCA_001650025.1_De_novo_genomic.fna.gz
+1768760e9e171c45c0a0d1b8cbb16e2f  ./GCA_001650025.1_De_novo_genomic.gbff.gz
+d5797b204e4fd87394900d8f5faef98e  ./GCA_001650025.1_De_novo_genomic.gff.gz
+9707bf7c8e9bab397dd28adbe068282d  ./GCA_001650025.1_De_novo_genomic.gtf.gz
+dfef2c6bcdf7710e659fe9be62d0b58f  ./GCA_001650025.1_De_novo_protein.faa.gz
+caedf986addd7d23b053800fc3d53e04  ./GCA_001650025.1_De_novo_protein.gpff.gz
+b4151c2395a2bd10b2dd48747a21946f  ./GCA_001650025.1_De_novo_rna_from_genomic.fna.gz
+da806591be64468e29551e779289780a  ./GCA_001650025.1_De_novo_translated_cds.faa.gz
+4267f0e781010f8e6e8ff9478437c575  ./GCA_001650025.1_De_novo_wgsmaster.gbff.gz

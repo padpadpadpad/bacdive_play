@@ -1,0 +1,15 @@
+58aaa611f4ecf384195dd4e446157dd6  ./annotation_hashes.txt
+3b772a94b0f58525e858ee7e17176083  ./GCA_000698555.1_SOAPdenovo_v1.05_assembly_report.txt
+84dfb63415e6a8bf5da4e171c5657fdf  ./GCA_000698555.1_SOAPdenovo_v1.05_assembly_stats.txt
+ad72f58500fb9002419a29e6aa0e3854  ./GCA_000698555.1_SOAPdenovo_v1.05_cds_from_genomic.fna.gz
+41f76c128a80fa606daa2625b6bb4cf0  ./GCA_000698555.1_SOAPdenovo_v1.05_feature_count.txt.gz
+8ee1059d0a262a7b15011b82ef53a6bf  ./GCA_000698555.1_SOAPdenovo_v1.05_feature_table.txt.gz
+1e40cf125582ebffb6a58a01dae885e8  ./GCA_000698555.1_SOAPdenovo_v1.05_genomic.fna.gz
+7211d38f60c4407a802225e9235bf0cf  ./GCA_000698555.1_SOAPdenovo_v1.05_genomic.gbff.gz
+7346fb314bc45ccdecdbe89735f5e163  ./GCA_000698555.1_SOAPdenovo_v1.05_genomic.gff.gz
+f8fdf35c89824c9866f47334b390890f  ./GCA_000698555.1_SOAPdenovo_v1.05_genomic.gtf.gz
+8e51e60f3048e664cb88296b907105aa  ./GCA_000698555.1_SOAPdenovo_v1.05_protein.faa.gz
+1d1dd5e065527262a668d03e38b84105  ./GCA_000698555.1_SOAPdenovo_v1.05_protein.gpff.gz
+a4a64fcc618f8f26fe03a2d6135f557a  ./GCA_000698555.1_SOAPdenovo_v1.05_rna_from_genomic.fna.gz
+e14e576e676356a8205149257d9cac12  ./GCA_000698555.1_SOAPdenovo_v1.05_translated_cds.faa.gz
+4e9c47d36cda49752dea228e1df12c23  ./GCA_000698555.1_SOAPdenovo_v1.05_wgsmaster.gbff.gz

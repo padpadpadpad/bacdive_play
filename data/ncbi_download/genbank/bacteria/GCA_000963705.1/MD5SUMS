@@ -1,0 +1,16 @@
+eda94eb07298e612be51985479d617ef  ./annotation_hashes.txt
+a04fc5a44d03f2c8734cfaf669dac764  ./GCA_000963705.1_Ellito1.0_assembly_report.txt
+91634f8229119ff703b44482ae39483b  ./GCA_000963705.1_Ellito1.0_assembly_stats.txt
+3b343e0d6f57feb001735f1ea1736016  ./GCA_000963705.1_Ellito1.0_cds_from_genomic.fna.gz
+d9b90a5d0e9e7ed3aa61d5ffcbf0fede  ./GCA_000963705.1_Ellito1.0_fcs_report.txt
+0222be49c73cd4f657bac5fab9669bca  ./GCA_000963705.1_Ellito1.0_feature_count.txt.gz
+7077724a951fd6bfc0fb8a29bb672f6d  ./GCA_000963705.1_Ellito1.0_feature_table.txt.gz
+4a9d82d963869b641bbf0bd91519aa39  ./GCA_000963705.1_Ellito1.0_genomic.fna.gz
+85b4e19f21165b039f5d135d320320ef  ./GCA_000963705.1_Ellito1.0_genomic.gbff.gz
+28698e0b887fc0114ad60702f19c6e55  ./GCA_000963705.1_Ellito1.0_genomic.gff.gz
+369e827a580fa0991728bdf261e56725  ./GCA_000963705.1_Ellito1.0_genomic.gtf.gz
+ef7c2f4b6b4702a8edeb82b9db630758  ./GCA_000963705.1_Ellito1.0_protein.faa.gz
+098cbc5284515ba05b79d7c133d9c8b1  ./GCA_000963705.1_Ellito1.0_protein.gpff.gz
+aeaa3d47dc07d033020255c4933e66cb  ./GCA_000963705.1_Ellito1.0_rna_from_genomic.fna.gz
+13ebb158fa4c44a5883351c2208355e5  ./GCA_000963705.1_Ellito1.0_translated_cds.faa.gz
+8a68e35c5eb2e81602c8fe29e1e7eddf  ./GCA_000963705.1_Ellito1.0_wgsmaster.gbff.gz

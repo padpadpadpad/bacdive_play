@@ -1,0 +1,15 @@
+00da0a1ae450d3a958a803a9fd7815f2  ./annotation_hashes.txt
+b89e32097f5c199bcdf3d6117d0063bc  ./GCA_000307855.1_BAZO1.0_assembly_report.txt
+c0ede30822ccebf5fb3babb7c6171c91  ./GCA_000307855.1_BAZO1.0_assembly_stats.txt
+237011ac1481d52dd2abb821423a7f8e  ./GCA_000307855.1_BAZO1.0_cds_from_genomic.fna.gz
+afe5239b8a4782b4ff26ac91b191e451  ./GCA_000307855.1_BAZO1.0_feature_count.txt
+6f904780fd4dbd237810a70a156b82e8  ./GCA_000307855.1_BAZO1.0_feature_table.txt.gz
+2416bef4bc7b076d34d8c6967eca14e1  ./GCA_000307855.1_BAZO1.0_genomic.fna.gz
+d0318b9fa9868293d655f654136414b9  ./GCA_000307855.1_BAZO1.0_genomic.gbff.gz
+60daf1950c83b0a51a3463f905bff434  ./GCA_000307855.1_BAZO1.0_genomic.gff.gz
+0ac7d84a9a59ccae8a0cc0322fc3abd4  ./GCA_000307855.1_BAZO1.0_genomic.gtf.gz
+0acfde9214998102ee61c947a84db317  ./GCA_000307855.1_BAZO1.0_protein.faa.gz
+eb3a65267218bb49df0411cc413b3f13  ./GCA_000307855.1_BAZO1.0_protein.gpff.gz
+f6508605b2e293e0e041b3ce111c7e57  ./GCA_000307855.1_BAZO1.0_rna_from_genomic.fna.gz
+73b08e23717df01f3db5629b6fd553d7  ./GCA_000307855.1_BAZO1.0_translated_cds.faa.gz
+7101d15ba7f36307c172c82d06ea10e8  ./GCA_000307855.1_BAZO1.0_wgsmaster.gbff.gz

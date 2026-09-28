@@ -1,0 +1,16 @@
+576b1c979c856cf1318691b4a1c9f478  ./annotation_hashes.txt
+459400f2893cbd5984305348f2b0c7bf  ./GCA_000496075.1_LuBa1.0_assembly_report.txt
+6b00e8ea053990ce52542d11aefadd41  ./GCA_000496075.1_LuBa1.0_assembly_stats.txt
+2bfd3e4f9d25552513e62eb45d5943ac  ./GCA_000496075.1_LuBa1.0_cds_from_genomic.fna.gz
+5fc57dc61cce624514ad9ff20b64bea2  ./GCA_000496075.1_LuBa1.0_fcs_report.txt
+0d2f60964abb53a62eb5237107983710  ./GCA_000496075.1_LuBa1.0_feature_count.txt.gz
+878bc9ca56821fda5c53bcbb0d53a958  ./GCA_000496075.1_LuBa1.0_feature_table.txt.gz
+784a85087328ffa73f9ee4d174c3c838  ./GCA_000496075.1_LuBa1.0_genomic.fna.gz
+c2f423db60be6fdcb258ef8cb8d8c257  ./GCA_000496075.1_LuBa1.0_genomic.gbff.gz
+19bfd50f03a102af97160c6df5273f9c  ./GCA_000496075.1_LuBa1.0_genomic.gff.gz
+b109009b1bddde3cf4dbab25e841a14b  ./GCA_000496075.1_LuBa1.0_genomic.gtf.gz
+00b7174f089acbdc8e3ae4d0c9707f9d  ./GCA_000496075.1_LuBa1.0_protein.faa.gz
+ee8ce72b9aa2e33412c66d372db9791d  ./GCA_000496075.1_LuBa1.0_protein.gpff.gz
+68c943d1a4c22edd87c82d2ebe0f65f4  ./GCA_000496075.1_LuBa1.0_rna_from_genomic.fna.gz
+2692a6cafb0e0972a8fb9146f6b4b7bc  ./GCA_000496075.1_LuBa1.0_translated_cds.faa.gz
+fef855a1d018749d7186b9e64e6ef460  ./GCA_000496075.1_LuBa1.0_wgsmaster.gbff.gz

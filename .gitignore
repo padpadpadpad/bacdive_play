@@ -1,0 +1,6 @@
+# Large data files excluded from GitHub (>50MB)
+data/gtdb/bac120_metadata.tsv
+data/gtdb/bac120_metadata.tsv.gz
+
+# macOS
+.DS_Store

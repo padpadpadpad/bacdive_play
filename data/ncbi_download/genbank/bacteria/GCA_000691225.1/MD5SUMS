@@ -1,0 +1,16 @@
+508e19ce65bc0397e034b6fa405cfff6  ./annotation_hashes.txt
+bae7b6b913b60ba25ed0848d3b5ccb9f  ./GCA_000691225.1_NitLas1.0_assembly_report.txt
+6351ccb9239c8bcb9c606577e816d47a  ./GCA_000691225.1_NitLas1.0_assembly_stats.txt
+4d24ae00d00f175d1c131d869f0d9e21  ./GCA_000691225.1_NitLas1.0_cds_from_genomic.fna.gz
+0fb26bb8fceb254033a48d3c91e44076  ./GCA_000691225.1_NitLas1.0_fcs_report.txt
+2ec13ef29f0fbf36ea4b94da6a5d7c25  ./GCA_000691225.1_NitLas1.0_feature_count.txt.gz
+6d9d8909031162c63bc9f85ab6cb5724  ./GCA_000691225.1_NitLas1.0_feature_table.txt.gz
+cda1344f9a1f4655b2517fd34e4cd722  ./GCA_000691225.1_NitLas1.0_genomic.fna.gz
+951080ebe7dad33ad4bddaf32de4e68f  ./GCA_000691225.1_NitLas1.0_genomic.gbff.gz
+f43dd97dc89f3bbdfe08e4281b1c4ad6  ./GCA_000691225.1_NitLas1.0_genomic.gff.gz
+c7be63763d87735a854e554ee27dedfb  ./GCA_000691225.1_NitLas1.0_genomic.gtf.gz
+7b2f35722c0598ad98debc4f9c78384d  ./GCA_000691225.1_NitLas1.0_protein.faa.gz
+898310b4e399e0f9e88a9a1a0a23e8d8  ./GCA_000691225.1_NitLas1.0_protein.gpff.gz
+0132e6843d0db1651b902adccd85ba32  ./GCA_000691225.1_NitLas1.0_rna_from_genomic.fna.gz
+44769dfc77c1083d58f346a865d178aa  ./GCA_000691225.1_NitLas1.0_translated_cds.faa.gz
+8ed06ce07fbd886d021d45f0985b174f  ./GCA_000691225.1_NitLas1.0_wgsmaster.gbff.gz

@@ -1,0 +1,15 @@
+4db7dd3bbfa7818979d88ab3dfe09ad4  ./annotation_hashes.txt
+2f2544c303d47d5e35de32495bbce150  ./GCA_001447995.1_DSW8_denovo_v1_assembly_report.txt
+87c7c8548d62eae7c2232cc0dbdeab0f  ./GCA_001447995.1_DSW8_denovo_v1_assembly_stats.txt
+eca9c56e782d3a0ac8017cab1e58a1f5  ./GCA_001447995.1_DSW8_denovo_v1_cds_from_genomic.fna.gz
+eb3615648d89f187497bcdd757843e64  ./GCA_001447995.1_DSW8_denovo_v1_feature_count.txt.gz
+b1dc9ce20efb71f5601bfcc79881143a  ./GCA_001447995.1_DSW8_denovo_v1_feature_table.txt.gz
+7afb74e60b390508565131e8ff66a192  ./GCA_001447995.1_DSW8_denovo_v1_genomic.fna.gz
+656abc632ad07f6f2223fa32d81e9996  ./GCA_001447995.1_DSW8_denovo_v1_genomic.gbff.gz
+03e7dde3d41b8fb86b1c6042bc2d6ede  ./GCA_001447995.1_DSW8_denovo_v1_genomic.gff.gz
+03076c5b3620c0cd26d007d0cd55a7d5  ./GCA_001447995.1_DSW8_denovo_v1_genomic.gtf.gz
+87603d387b2ab125739e62ffd311a7c6  ./GCA_001447995.1_DSW8_denovo_v1_protein.faa.gz
+f0a2d53f78838d6a8847b70520059f00  ./GCA_001447995.1_DSW8_denovo_v1_protein.gpff.gz
+5149481678052eb973cf538e864c4fa2  ./GCA_001447995.1_DSW8_denovo_v1_rna_from_genomic.fna.gz
+5f62295b8e0da0a06e7d67ba16c20ce5  ./GCA_001447995.1_DSW8_denovo_v1_translated_cds.faa.gz
+6b20849cfcdc39161e49a8283b1b8698  ./GCA_001447995.1_DSW8_denovo_v1_wgsmaster.gbff.gz

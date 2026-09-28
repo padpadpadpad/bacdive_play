@@ -1,0 +1,15 @@
+4aba3ac44a42bab0406e568296bca977  ./annotation_hashes.txt
+e6ce6a17818bd194f634a10bbae2f2ab  ./GCA_000498515.1_Fsal1.0_assembly_report.txt
+75fdb684046e1b592ea6e653ca8b6cfe  ./GCA_000498515.1_Fsal1.0_assembly_stats.txt
+03298046baa80d244ca4f5f9fc83e972  ./GCA_000498515.1_Fsal1.0_cds_from_genomic.fna.gz
+8a5901eee2f80b1ad09c5819203ceaac  ./GCA_000498515.1_Fsal1.0_feature_count.txt.gz
+1c4e16b49828ea75e001c0b1704490f7  ./GCA_000498515.1_Fsal1.0_feature_table.txt.gz
+0ed2a14d432c613cfa6e28559576ea89  ./GCA_000498515.1_Fsal1.0_genomic.fna.gz
+90aafdee48c06837bd70f793e5f9b17d  ./GCA_000498515.1_Fsal1.0_genomic.gbff.gz
+026db12c4346a8dead41b2e4c9b0193a  ./GCA_000498515.1_Fsal1.0_genomic.gff.gz
+741f284006e59111c48e59e14cf3448c  ./GCA_000498515.1_Fsal1.0_genomic.gtf.gz
+c769de5e3e2f7b39636e72476da5e49d  ./GCA_000498515.1_Fsal1.0_protein.faa.gz
+ce33ec9dd901486497feb8cba69af6cd  ./GCA_000498515.1_Fsal1.0_protein.gpff.gz
+1b99d87484001ff800c1ce20dda69ce6  ./GCA_000498515.1_Fsal1.0_rna_from_genomic.fna.gz
+fe3998886b49404bc15415791dd34788  ./GCA_000498515.1_Fsal1.0_translated_cds.faa.gz
+c8cb7311898df8d7571b5efaafaf6179  ./GCA_000498515.1_Fsal1.0_wgsmaster.gbff.gz

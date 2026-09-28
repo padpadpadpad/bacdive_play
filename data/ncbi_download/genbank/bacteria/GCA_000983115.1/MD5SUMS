@@ -1,0 +1,17 @@
+0320a6186b62bc8e2659c65ccdfe13bc  ./annotation_hashes.txt
+ec0b9fdc862f5ca903f55e6af6df0564  ./GCA_000983115.1_Syntrophomonas_Zehnderi_OL-4_assembly_report.txt
+532c421327abf6038f78426ae509392a  ./GCA_000983115.1_Syntrophomonas_Zehnderi_OL-4_assembly_stats.txt
+35727392f7eb8ff99f1789ae368554a4  ./GCA_000983115.1_Syntrophomonas_Zehnderi_OL-4_cds_from_genomic.fna.gz
+bffacda25da7c0f983c6db65986d0da3  ./GCA_000983115.1_Syntrophomonas_Zehnderi_OL-4_fcs_report.txt
+3344d3a5aa7d53b408f2b0416f1a8e29  ./GCA_000983115.1_Syntrophomonas_Zehnderi_OL-4_feature_count.txt
+6539bd4822d45543b4645d374f9e9336  ./GCA_000983115.1_Syntrophomonas_Zehnderi_OL-4_feature_table.txt.gz
+27b451ae1252bc49cb11d45fb0c5b9f1  ./GCA_000983115.1_Syntrophomonas_Zehnderi_OL-4_genomic.fna.gz
+3ab18ac8dd080acab2bb2101658920bd  ./GCA_000983115.1_Syntrophomonas_Zehnderi_OL-4_genomic_gaps.txt.gz
+837faf91de0eb8cfde495a566584b007  ./GCA_000983115.1_Syntrophomonas_Zehnderi_OL-4_genomic.gbff.gz
+4abe49e5acda8b38fa0bbbc0340bd036  ./GCA_000983115.1_Syntrophomonas_Zehnderi_OL-4_genomic.gff.gz
+c82b8a02558e7bdbf52749ef2dfe71bf  ./GCA_000983115.1_Syntrophomonas_Zehnderi_OL-4_genomic.gtf.gz
+5256af0856219b5010a59fc00e263f66  ./GCA_000983115.1_Syntrophomonas_Zehnderi_OL-4_protein.faa.gz
+58b3c403b74b7d12a9b74f2829aeb914  ./GCA_000983115.1_Syntrophomonas_Zehnderi_OL-4_protein.gpff.gz
+b7bcb7dadabd4ab8617fe2ab41eda610  ./GCA_000983115.1_Syntrophomonas_Zehnderi_OL-4_rna_from_genomic.fna.gz
+cefd898e6ef641459239ac459536c929  ./GCA_000983115.1_Syntrophomonas_Zehnderi_OL-4_translated_cds.faa.gz
+549ca64cf69bde50ed6b414212c7a24c  ./GCA_000983115.1_Syntrophomonas_Zehnderi_OL-4_wgsmaster.gbff.gz

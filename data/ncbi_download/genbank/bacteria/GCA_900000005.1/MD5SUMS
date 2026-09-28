@@ -1,0 +1,15 @@
+be3df5da3f2632caa27990aac5d53cb6  ./annotation_hashes.txt
+beae430124b69155ab4afde4131ef6af  ./GCA_900000005.1_BVF60_assembly_report.txt
+b02f50bccb09d98a2527e52847d6f189  ./GCA_900000005.1_BVF60_assembly_stats.txt
+4fad57f1faf7d00d293df289acf69678  ./GCA_900000005.1_BVF60_cds_from_genomic.fna.gz
+0eea5499bb0d68634b32e119ef7bc04b  ./GCA_900000005.1_BVF60_fcs_report.txt
+5d19cae87a5a1474cd44f5e8a9640263  ./GCA_900000005.1_BVF60_feature_count.txt.gz
+c671e8e15411e133cd10477d3ccfa322  ./GCA_900000005.1_BVF60_feature_table.txt.gz
+0a1e8efb96e91ba0df4209591738fc68  ./GCA_900000005.1_BVF60_genomic.fna.gz
+3cecce6ee6736c763e1f74f2e5b5eaaf  ./GCA_900000005.1_BVF60_genomic.gbff.gz
+c92ffbcf227e1bce63a177b300cb8e60  ./GCA_900000005.1_BVF60_genomic.gff.gz
+b3b44d57ee04f84cbfd828800f8d614e  ./GCA_900000005.1_BVF60_genomic.gtf.gz
+9d2d5ce1ce9089b01ffcb5fa82d59fc5  ./GCA_900000005.1_BVF60_protein.faa.gz
+44656d8f94381cd1ef15a061a525fa05  ./GCA_900000005.1_BVF60_protein.gpff.gz
+ea591589e82314b43ce93807897fa2f9  ./GCA_900000005.1_BVF60_rna_from_genomic.fna.gz
+c4a54bca3c26bc3f31d84111addb535c  ./GCA_900000005.1_BVF60_translated_cds.faa.gz

@@ -1,0 +1,12 @@
+0d7f16307c5e6f04d16de6210efcdc84  ./annotation_hashes.txt
+45ec58011f28995fa9a1fea84a19e72f  ./GCA_000503215.1_Pseudomonas_sp_2-92_R01_assembly_report.txt
+9348f3884bf5d4d5256cedbc8bca3b74  ./GCA_000503215.1_Pseudomonas_sp_2-92_R01_assembly_stats.txt
+cc2429c1c40496fef9dec791d0da396f  ./GCA_000503215.1_Pseudomonas_sp_2-92_R01_assembly_structure/Primary_Assembly/component_localID2acc
+f22ce328d2e73f4dd8115965915417f8  ./GCA_000503215.1_Pseudomonas_sp_2-92_R01_assembly_structure/Primary_Assembly/scaffold_localID2acc
+6f1aa9e323c5e727834044546a59adad  ./GCA_000503215.1_Pseudomonas_sp_2-92_R01_assembly_structure/Primary_Assembly/unplaced_scaffolds/AGP/unplaced.scaf.agp.gz
+10fd750718941937ee059a70f8714e42  ./GCA_000503215.1_Pseudomonas_sp_2-92_R01_assembly_structure/Primary_Assembly/unplaced_scaffolds/FASTA/unplaced.scaf.fna.gz
+15d0eaaa0121db01c2c42ff0599d7793  ./GCA_000503215.1_Pseudomonas_sp_2-92_R01_feature_count.txt.gz
+10fd750718941937ee059a70f8714e42  ./GCA_000503215.1_Pseudomonas_sp_2-92_R01_genomic.fna.gz
+a0b163d9655a5965a8cd2452069591c7  ./GCA_000503215.1_Pseudomonas_sp_2-92_R01_genomic_gaps.txt.gz
+595a42d4118e18f5f04ee1cbf05fb7d5  ./GCA_000503215.1_Pseudomonas_sp_2-92_R01_genomic.gbff.gz
+79e8f1a050ca19e933427083ff79caf1  ./GCA_000503215.1_Pseudomonas_sp_2-92_R01_wgsmaster.gbff.gz

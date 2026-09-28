@@ -1,0 +1,16 @@
+e86b5f645588820bf83a3144d2be0f8d  ./annotation_hashes.txt
+9b610b6b344329992e5367b56973a4b9  ./GCA_000307875.1_BABA1.0_assembly_report.txt
+c0e43657541becff724dd3c9881090b9  ./GCA_000307875.1_BABA1.0_assembly_stats.txt
+f5dd0bf9c47264fb48b9334f9b67989c  ./GCA_000307875.1_BABA1.0_cds_from_genomic.fna.gz
+3caabef50336d9a2d6e00f4c294e7c5f  ./GCA_000307875.1_BABA1.0_fcs_report.txt
+dd9bb949d61c74f974fbbccca58a0b72  ./GCA_000307875.1_BABA1.0_feature_count.txt
+8ad5b8fb171d8c92d5bdc9e0cbbbba2f  ./GCA_000307875.1_BABA1.0_feature_table.txt.gz
+f5625b77b392c83a67b3f04fa5441dc9  ./GCA_000307875.1_BABA1.0_genomic.fna.gz
+be805d06606e3191e33f51b59ee33cbe  ./GCA_000307875.1_BABA1.0_genomic.gbff.gz
+8cadd4745c6adb86af4b651e456f1527  ./GCA_000307875.1_BABA1.0_genomic.gff.gz
+7b41a291e23c01163082fb51029dcedb  ./GCA_000307875.1_BABA1.0_genomic.gtf.gz
+3d1270a5573335002ff40ca367480590  ./GCA_000307875.1_BABA1.0_protein.faa.gz
+aac46b14a706ac903a639c002b3cd4a8  ./GCA_000307875.1_BABA1.0_protein.gpff.gz
+8a8f1a027b51ed81ff07069ce9dafa2b  ./GCA_000307875.1_BABA1.0_rna_from_genomic.fna.gz
+8e93f3df8fe2f17ad3b2af3d19c7e500  ./GCA_000307875.1_BABA1.0_translated_cds.faa.gz
+e1a6b62def3e8b8ad9e4adab2dd7f2cc  ./GCA_000307875.1_BABA1.0_wgsmaster.gbff.gz

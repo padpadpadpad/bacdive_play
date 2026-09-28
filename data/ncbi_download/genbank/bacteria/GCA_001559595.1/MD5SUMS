@@ -1,0 +1,16 @@
+01464cda01277c8b81d60d2274b65763  ./annotation_hashes.txt
+c277b92ab9466c8e58a7f1f5b09b8905  ./GCA_001559595.1_CAIM912T.1_assembly_report.txt
+a2996dd0e0a88f9d1eef1ea1725418fa  ./GCA_001559595.1_CAIM912T.1_assembly_stats.txt
+17e824e1f4987dd7aef17ec9f7b82488  ./GCA_001559595.1_CAIM912T.1_cds_from_genomic.fna.gz
+f9f658ae301e83c419a3d9d535fd0f50  ./GCA_001559595.1_CAIM912T.1_fcs_report.txt
+b67b14501cc32517e826d477b38ce7ad  ./GCA_001559595.1_CAIM912T.1_feature_count.txt.gz
+f886bca00b52ecb97bb6d33730ce1680  ./GCA_001559595.1_CAIM912T.1_feature_table.txt.gz
+b5fd9daebd1bf81a98f1870608c4106b  ./GCA_001559595.1_CAIM912T.1_genomic.fna.gz
+e85dacb3c502543eb699a30619195e50  ./GCA_001559595.1_CAIM912T.1_genomic.gbff.gz
+72f79d5e18ce2927f1aed8c1b84dcfa0  ./GCA_001559595.1_CAIM912T.1_genomic.gff.gz
+7f7064ae3d2e67467efe2623c9b1ee6c  ./GCA_001559595.1_CAIM912T.1_genomic.gtf.gz
+4fbcaebb4335e09f23c8a471dc08f24a  ./GCA_001559595.1_CAIM912T.1_protein.faa.gz
+f608ee3626487d3b9c4a6cd9d16ad9f6  ./GCA_001559595.1_CAIM912T.1_protein.gpff.gz
+6d65f86b997f5258b9e885a1bf94114c  ./GCA_001559595.1_CAIM912T.1_rna_from_genomic.fna.gz
+c2581f23721c1f0fef7847af3fbbfd4f  ./GCA_001559595.1_CAIM912T.1_translated_cds.faa.gz
+9ca3e6176d88b63ee882def0e66b3457  ./GCA_001559595.1_CAIM912T.1_wgsmaster.gbff.gz

@@ -1,0 +1,15 @@
+f4bdb9be536d51e4811fd15f4c04efe6  ./annotation_hashes.txt
+dec8dee9166aa01d2953a6617dd41c6f  ./GCA_000705275.1_Campylobacter_8_barcode_assembly_report.txt
+8a8af25292b9a91039fc2d4dd3114135  ./GCA_000705275.1_Campylobacter_8_barcode_assembly_stats.txt
+861d3cd32c7f7c3f998e4b973dbef497  ./GCA_000705275.1_Campylobacter_8_barcode_cds_from_genomic.fna.gz
+0f69ad49f4a85c821a9874efb9a79f60  ./GCA_000705275.1_Campylobacter_8_barcode_feature_count.txt.gz
+836bbe3e7daca8001eeeddc8fc92c6d2  ./GCA_000705275.1_Campylobacter_8_barcode_feature_table.txt.gz
+96c3e773606d428f8e9c6f53a7a7ea51  ./GCA_000705275.1_Campylobacter_8_barcode_genomic.fna.gz
+5e5c8d18b06de7b8287c31aa3d28b408  ./GCA_000705275.1_Campylobacter_8_barcode_genomic.gbff.gz
+648b4c3e494ac6ea25a862ad83269cd5  ./GCA_000705275.1_Campylobacter_8_barcode_genomic.gff.gz
+ad1f20019b25f2cd1f55db6954f7d6a5  ./GCA_000705275.1_Campylobacter_8_barcode_genomic.gtf.gz
+4da03136ada094c063856ea13b067415  ./GCA_000705275.1_Campylobacter_8_barcode_protein.faa.gz
+9d7d50560e2c8097844be220ea09e6f7  ./GCA_000705275.1_Campylobacter_8_barcode_protein.gpff.gz
+488186ebd8a4ac2224bba04dcebfc05a  ./GCA_000705275.1_Campylobacter_8_barcode_rna_from_genomic.fna.gz
+3888243ca530aebcad4cdcd35f04025b  ./GCA_000705275.1_Campylobacter_8_barcode_translated_cds.faa.gz
+9a669186dd1f2cd6f75211c22df652b8  ./GCA_000705275.1_Campylobacter_8_barcode_wgsmaster.gbff.gz

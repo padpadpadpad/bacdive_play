@@ -1,0 +1,16 @@
+bb73ceceaf2afdca359ab20b9d9db39e  ./annotation_hashes.txt
+8b9ceb84193df43912060f7cfd7e1fb4  ./GCA_000723205.1_FAGA1_assembly_report.txt
+a8e5a4b4e940685605d520ad030138d6  ./GCA_000723205.1_FAGA1_assembly_stats.txt
+3c0ef40172a520984763d8fbd09d2f94  ./GCA_000723205.1_FAGA1_cds_from_genomic.fna.gz
+4356d7f4c924524b1479d351be3b1a60  ./GCA_000723205.1_FAGA1_fcs_report.txt
+2423d9c85612288e74de860f14a93eca  ./GCA_000723205.1_FAGA1_feature_count.txt
+75c3e6cb1dbeed16f96d5ea325309313  ./GCA_000723205.1_FAGA1_feature_table.txt.gz
+807977a4ea6036197e04861606414911  ./GCA_000723205.1_FAGA1_genomic.fna.gz
+0536dc13752c58c18756c48fd1d305d3  ./GCA_000723205.1_FAGA1_genomic_gaps.txt.gz
+5185015f4654707e2347cb8602e29789  ./GCA_000723205.1_FAGA1_genomic.gbff.gz
+d6ff845c1a6aacc4557fa341475d2cf6  ./GCA_000723205.1_FAGA1_genomic.gff.gz
+0dcdf4101a54089e987ed0a9c581be42  ./GCA_000723205.1_FAGA1_genomic.gtf.gz
+7ead861581053ad33a825d1a7b1fcb8d  ./GCA_000723205.1_FAGA1_protein.faa.gz
+e8d8944f78b401911bb4b16870221eb6  ./GCA_000723205.1_FAGA1_protein.gpff.gz
+efee99b113989e7c714a2e16263f946a  ./GCA_000723205.1_FAGA1_rna_from_genomic.fna.gz
+9ab7c6961ce357444e2afcbc20ddba09  ./GCA_000723205.1_FAGA1_translated_cds.faa.gz

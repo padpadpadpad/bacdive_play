@@ -1,0 +1,15 @@
+5def3634d65a682c12ceef7c7b324ed2  ./annotation_hashes.txt
+540e2b1bca9e0332320cd635263a79de  ./GCA_012103105.1_O.haematophilum_CIP_109452.fasta_assembly_report.txt
+9c14c526c4af370c170cbb73a8eb447c  ./GCA_012103105.1_O.haematophilum_CIP_109452.fasta_assembly_stats.txt
+15401a10ca52acf7fab6b53156dd0470  ./GCA_012103105.1_O.haematophilum_CIP_109452.fasta_cds_from_genomic.fna.gz
+f9adf1be7a11a29a824a51fc7f0f7bee  ./GCA_012103105.1_O.haematophilum_CIP_109452.fasta_feature_count.txt.gz
+d20467c0287f3c91dbc71b32d74ea4db  ./GCA_012103105.1_O.haematophilum_CIP_109452.fasta_feature_table.txt.gz
+b8c76ff996bb269ddc46d5bbfa8e026d  ./GCA_012103105.1_O.haematophilum_CIP_109452.fasta_genomic.fna.gz
+8fb3cfc3c426ed14b379fd4e706de215  ./GCA_012103105.1_O.haematophilum_CIP_109452.fasta_genomic.gbff.gz
+2d9c3abe47998133e35065ee14807c55  ./GCA_012103105.1_O.haematophilum_CIP_109452.fasta_genomic.gff.gz
+0c034b940239d168989a329c6f081333  ./GCA_012103105.1_O.haematophilum_CIP_109452.fasta_genomic.gtf.gz
+15079b3adc7da3aac3e9c28f46fb62f9  ./GCA_012103105.1_O.haematophilum_CIP_109452.fasta_protein.faa.gz
+9fb335cb2f98600d629044de40a20512  ./GCA_012103105.1_O.haematophilum_CIP_109452.fasta_protein.gpff.gz
+ada45e066d88d2be8b5a552fb9d9ab5a  ./GCA_012103105.1_O.haematophilum_CIP_109452.fasta_rna_from_genomic.fna.gz
+e2bbdca1b94d939ab6133c8deba7fa53  ./GCA_012103105.1_O.haematophilum_CIP_109452.fasta_translated_cds.faa.gz
+e01f1b4144da11d39bd30bbcc7cee3f3  ./GCA_012103105.1_O.haematophilum_CIP_109452.fasta_wgsmaster.gbff.gz

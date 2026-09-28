@@ -1,0 +1,16 @@
+cc339e14682145bb96d68b8feecf70f3  ./annotation_hashes.txt
+ab4b4a28b2a15664503f87b126b7e569  ./GCA_000427335.1_WiPs1.0_assembly_report.txt
+751807a6c6fbd14c926e6dec2e2cf88a  ./GCA_000427335.1_WiPs1.0_assembly_stats.txt
+9784ff65e02a2cb01d7d6e2f1ad566bc  ./GCA_000427335.1_WiPs1.0_cds_from_genomic.fna.gz
+ca823ea4c14007bf75ccb5b18a639a61  ./GCA_000427335.1_WiPs1.0_fcs_report.txt
+fb2c658a8a6e4b8f3fc2e4369e8108c4  ./GCA_000427335.1_WiPs1.0_feature_count.txt.gz
+5b4eec0ae2b63002989395efaba542ac  ./GCA_000427335.1_WiPs1.0_feature_table.txt.gz
+041f39661cb27b74b24a1bd05ac983bc  ./GCA_000427335.1_WiPs1.0_genomic.fna.gz
+61608e32c80ea7a731e7abe1bc86c5c2  ./GCA_000427335.1_WiPs1.0_genomic.gbff.gz
+896dd7736aa9c9fb233c557519adbb44  ./GCA_000427335.1_WiPs1.0_genomic.gff.gz
+f2b829be689ee2bca84fcdd0e6c111dc  ./GCA_000427335.1_WiPs1.0_genomic.gtf.gz
+c784653261a2a6d0bde0f4ce151afc2c  ./GCA_000427335.1_WiPs1.0_protein.faa.gz
+ea8c7aa9b84ff34bf4e086854adcdec4  ./GCA_000427335.1_WiPs1.0_protein.gpff.gz
+1a72ead1044ae6ca119666ea8ba00585  ./GCA_000427335.1_WiPs1.0_rna_from_genomic.fna.gz
+e691758a027a556368657d6f5a1dd9e4  ./GCA_000427335.1_WiPs1.0_translated_cds.faa.gz
+09c8d05101599c9e1f163a6ae7bf0a87  ./GCA_000427335.1_WiPs1.0_wgsmaster.gbff.gz

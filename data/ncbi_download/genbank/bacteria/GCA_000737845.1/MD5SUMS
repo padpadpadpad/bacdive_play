@@ -1,0 +1,15 @@
+64f3560f0b8c657157e36a10825dd0c4  ./annotation_hashes.txt
+906688a87be165cfd516b22d9e73e6cc  ./GCA_000737845.1_BBOMBassembly_assembly_report.txt
+04369c5f99937010716287615f12274e  ./GCA_000737845.1_BBOMBassembly_assembly_stats.txt
+b8d5622c79144dbdd31a58db88839d82  ./GCA_000737845.1_BBOMBassembly_cds_from_genomic.fna.gz
+cd71141059a69ab07517b5ed1c02ef11  ./GCA_000737845.1_BBOMBassembly_feature_count.txt.gz
+386a800350731fa21eb38a7d01863dde  ./GCA_000737845.1_BBOMBassembly_feature_table.txt.gz
+f7b710c943dd76a7b3211b1bfaa6aee3  ./GCA_000737845.1_BBOMBassembly_genomic.fna.gz
+a496044708a7ccdc525791ccd8c68143  ./GCA_000737845.1_BBOMBassembly_genomic.gbff.gz
+e8726a6677b3fbf7d2ac32ce2455f1a8  ./GCA_000737845.1_BBOMBassembly_genomic.gff.gz
+a2b149c50011fdd3f0905ae403912a6a  ./GCA_000737845.1_BBOMBassembly_genomic.gtf.gz
+a11b5c265c6df74d492cf58aa7ab0754  ./GCA_000737845.1_BBOMBassembly_protein.faa.gz
+500de298dae7f4ca400fd472067be723  ./GCA_000737845.1_BBOMBassembly_protein.gpff.gz
+50616093d2ae33dfa488b9bdc27ef9b7  ./GCA_000737845.1_BBOMBassembly_rna_from_genomic.fna.gz
+6dbe413706432c234f36cb5b622160dc  ./GCA_000737845.1_BBOMBassembly_translated_cds.faa.gz
+8e8ea8cf65d288a5da8691fdfed9e605  ./GCA_000737845.1_BBOMBassembly_wgsmaster.gbff.gz

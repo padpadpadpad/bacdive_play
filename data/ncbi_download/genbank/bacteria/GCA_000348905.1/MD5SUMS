@@ -1,0 +1,15 @@
+e9113e0a1a4da50bb0dde50f8fc80597  ./annotation_hashes.txt
+211e0c2d0e11d6f680d6c1eda6709460  ./GCA_000348905.1_BhCe1_assembly_report.txt
+3cedab6105ce3cd441d82c07a3705046  ./GCA_000348905.1_BhCe1_assembly_stats.txt
+d0de0006c03ab02bab988583acec8785  ./GCA_000348905.1_BhCe1_cds_from_genomic.fna.gz
+b163072f31b39e1bc0c3b1c19689537b  ./GCA_000348905.1_BhCe1_feature_count.txt
+3b46e16dbaffde0fce670ff6ad458d06  ./GCA_000348905.1_BhCe1_feature_table.txt.gz
+8c594332c6e53205c3c5fd8864df1bbb  ./GCA_000348905.1_BhCe1_genomic.fna.gz
+10e532f858adaf2fa8ce684023946d5c  ./GCA_000348905.1_BhCe1_genomic.gbff.gz
+174b50f8c68ce857f22f49a638b481bc  ./GCA_000348905.1_BhCe1_genomic.gff.gz
+01178bfc41dde4c478a2d3e5194e7276  ./GCA_000348905.1_BhCe1_genomic.gtf.gz
+9564dbac4d1238eab0cd95b6f5c2ebfb  ./GCA_000348905.1_BhCe1_protein.faa.gz
+6938184740015cd3ca8e20041bce85d2  ./GCA_000348905.1_BhCe1_protein.gpff.gz
+7bf3210f88258f1a30bf6412cd9f1ff9  ./GCA_000348905.1_BhCe1_rna_from_genomic.fna.gz
+453e2adb26bd52bbeeb05cf4f315a3a5  ./GCA_000348905.1_BhCe1_translated_cds.faa.gz
+48cc07d112eef080e8fb2e4d32ff8d1a  ./GCA_000348905.1_BhCe1_wgsmaster.gbff.gz

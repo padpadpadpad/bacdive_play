@@ -1,0 +1,16 @@
+6439619924e61fed1502c1849c4d5a60  ./annotation_hashes.txt
+368f49ce4f493bd4c83c71db2efc37ac  ./GCA_000406145.1_DDA898_1.0_assembly_report.txt
+fc23df5f29e09db13a9a982ff12eb887  ./GCA_000406145.1_DDA898_1.0_assembly_stats.txt
+9b9164d4a548faf804fadf67454bd845  ./GCA_000406145.1_DDA898_1.0_assembly_structure/Primary_Assembly/assembled_chromosomes/AGP/chr.comp.agp.gz
+328a2e5a92da466927490832a658e76b  ./GCA_000406145.1_DDA898_1.0_assembly_structure/Primary_Assembly/assembled_chromosomes/chr2acc
+2257b99f40312a523eaf74ef39d56064  ./GCA_000406145.1_DDA898_1.0_assembly_structure/Primary_Assembly/assembled_chromosomes/FASTA/chr.fna.gz
+656bb8213b16ff62ab725cd2f7342ab8  ./GCA_000406145.1_DDA898_1.0_assembly_structure/Primary_Assembly/component_localID2acc
+ef7a7858ccb130d2a80cc2d4f6938be7  ./GCA_000406145.1_DDA898_1.0_assembly_structure/Primary_Assembly/scaffold_localID2acc
+0157b34af2fa4fe871cfa13080a9e384  ./GCA_000406145.1_DDA898_1.0_assembly_structure/Primary_Assembly/unplaced_scaffolds/AGP/unplaced.scaf.agp.gz
+dcef13bcb271033bc435f03c146f8768  ./GCA_000406145.1_DDA898_1.0_assembly_structure/Primary_Assembly/unplaced_scaffolds/FASTA/unplaced.scaf.fna.gz
+e051e081348d60fddea4846618e5f760  ./GCA_000406145.1_DDA898_1.0_fcs_report.txt
+8cde6bb2cfdc0eee972f3e384da895ad  ./GCA_000406145.1_DDA898_1.0_feature_count.txt
+a12b37e6151fabe3378e229f4f0c0965  ./GCA_000406145.1_DDA898_1.0_genomic.fna.gz
+6c0cec08d4ffb51dfa81be1e598ebd47  ./GCA_000406145.1_DDA898_1.0_genomic_gaps.txt.gz
+359449de369cf296589282a2b2835953  ./GCA_000406145.1_DDA898_1.0_genomic.gbff.gz
+6c142bbd68ce6d3dee416b2380e2265b  ./GCA_000406145.1_DDA898_1.0_wgsmaster.gbff.gz

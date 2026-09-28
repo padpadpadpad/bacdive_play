@@ -1,0 +1,16 @@
+a330407f16b3652c688c6a7f2a8bd0d0  ./annotation_hashes.txt
+d4d2d1313f5479a24e309b280ab85d08  ./GCA_000601455.1_Fervidicella_assembly_assembly_report.txt
+345634f9d392aa199e22f05bef67e0c9  ./GCA_000601455.1_Fervidicella_assembly_assembly_stats.txt
+95e50c2cb904476d9e55a33c9616490b  ./GCA_000601455.1_Fervidicella_assembly_cds_from_genomic.fna.gz
+534be6585d7e2b7733e276fbcd57b136  ./GCA_000601455.1_Fervidicella_assembly_fcs_report.txt
+2bff0cb53b37d75caa6c441637d5b062  ./GCA_000601455.1_Fervidicella_assembly_feature_count.txt.gz
+da611091887da7f50cd99b0bf7a54b26  ./GCA_000601455.1_Fervidicella_assembly_feature_table.txt.gz
+2df7dfb63ab277cfc960e365468812f7  ./GCA_000601455.1_Fervidicella_assembly_genomic.fna.gz
+7687b228913cb4ba04fe440d9bcbfb53  ./GCA_000601455.1_Fervidicella_assembly_genomic.gbff.gz
+ea5a89ab1bc9fb4fc4ae67645cc43bac  ./GCA_000601455.1_Fervidicella_assembly_genomic.gff.gz
+b88b6d1d9d124979bde33a03afbb80fd  ./GCA_000601455.1_Fervidicella_assembly_genomic.gtf.gz
+49ea4b87ff6bb2ddf0d429e841776003  ./GCA_000601455.1_Fervidicella_assembly_protein.faa.gz
+cb0c0f07d16dbe0eedabff9687530097  ./GCA_000601455.1_Fervidicella_assembly_protein.gpff.gz
+2b9259fae23cf471e250f3e0fbccde0d  ./GCA_000601455.1_Fervidicella_assembly_rna_from_genomic.fna.gz
+68edba9a36b27ab3e8f1dd79555a3f18  ./GCA_000601455.1_Fervidicella_assembly_translated_cds.faa.gz
+e1419fb85c0064e2057799c6f06807a0  ./GCA_000601455.1_Fervidicella_assembly_wgsmaster.gbff.gz

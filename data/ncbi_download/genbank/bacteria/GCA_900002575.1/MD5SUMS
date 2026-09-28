@@ -1,0 +1,16 @@
+83197deb66b860166bf46454501d684d  ./annotation_hashes.txt
+0e3fd3b15ff39a511dc409f0acb7e4d7  ./GCA_900002575.1_FRIFI_assembly_report.txt
+712921c0a4924cd4b2f18513568c78bd  ./GCA_900002575.1_FRIFI_assembly_stats.txt
+1a4b5ccc5acb445e2381e95ca37ed936  ./GCA_900002575.1_FRIFI_cds_from_genomic.fna.gz
+7b9d7eff49bff7bde9bb02047d256af9  ./GCA_900002575.1_FRIFI_fcs_report.txt
+bd65acad258cdcf8eda50518ef9cc179  ./GCA_900002575.1_FRIFI_feature_count.txt
+aa325c22681446cf9b6f16367c08d97b  ./GCA_900002575.1_FRIFI_feature_table.txt.gz
+e2acc3a5c99dec1af3deec2f3dd73cf1  ./GCA_900002575.1_FRIFI_genomic.fna.gz
+c009da99de42025831d3d93edc34333d  ./GCA_900002575.1_FRIFI_genomic_gaps.txt.gz
+69f65462a92f49b38ea5bf0b401819f5  ./GCA_900002575.1_FRIFI_genomic.gbff.gz
+bf0b94a58a97bcea1b1ba6fa6aa7d0ee  ./GCA_900002575.1_FRIFI_genomic.gff.gz
+5a359f4bddcc7548393ed89072168a24  ./GCA_900002575.1_FRIFI_genomic.gtf.gz
+e09bab04941f50bfa346ccbcc55271fb  ./GCA_900002575.1_FRIFI_protein.faa.gz
+7292e1914835b054caa91b21a28315ca  ./GCA_900002575.1_FRIFI_protein.gpff.gz
+33793305bc1b986ab74aa33649f25f62  ./GCA_900002575.1_FRIFI_rna_from_genomic.fna.gz
+3f60e81e8a7259e3e084feccc4c17959  ./GCA_900002575.1_FRIFI_translated_cds.faa.gz

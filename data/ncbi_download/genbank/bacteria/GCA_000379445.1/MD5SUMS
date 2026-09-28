@@ -1,0 +1,13 @@
+7a43d205d5ad2a23b295daf573ec8104  ./annotation_hashes.txt
+708c3614f104c328e3059edc013fbb70  ./GCA_000379445.1_ASM37944v1_assembly_report.txt
+01f268f0edeb6affba1a02ff86962420  ./GCA_000379445.1_ASM37944v1_assembly_stats.txt
+dbd0f24518a2e35425cff5ce67bf2c15  ./GCA_000379445.1_ASM37944v1_assembly_structure/Primary_Assembly/component_localID2acc
+d62b2df9eecbcd5eddf8e30252b749ab  ./GCA_000379445.1_ASM37944v1_assembly_structure/Primary_Assembly/scaffold_localID2acc
+c4f9f90c790c11ad0e46f96eb67f367f  ./GCA_000379445.1_ASM37944v1_assembly_structure/Primary_Assembly/unplaced_scaffolds/AGP/unplaced.scaf.agp.gz
+cc18a0e769d4388f832ed99300eeefd7  ./GCA_000379445.1_ASM37944v1_assembly_structure/Primary_Assembly/unplaced_scaffolds/FASTA/unplaced.scaf.fna.gz
+8c1549ff5a2b8e0af7a1bfad1f37d940  ./GCA_000379445.1_ASM37944v1_fcs_report.txt
+6a7aa3e184e1e69bae42ced141979d99  ./GCA_000379445.1_ASM37944v1_feature_count.txt.gz
+cc18a0e769d4388f832ed99300eeefd7  ./GCA_000379445.1_ASM37944v1_genomic.fna.gz
+70d55311a18ae2d118a40ec9e9d893ac  ./GCA_000379445.1_ASM37944v1_genomic_gaps.txt.gz
+d9ae0eb72ee7e4e2e3525210d0da60f3  ./GCA_000379445.1_ASM37944v1_genomic.gbff.gz
+ded921e26b8023f8155fb1f7763d58b4  ./GCA_000379445.1_ASM37944v1_wgsmaster.gbff.gz

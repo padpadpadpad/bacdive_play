@@ -1,0 +1,16 @@
+10ab3c335b2e2e19d9d84aafc75f8c3a  ./annotation_hashes.txt
+1b3c374f967220927bf8605ca3989278  ./GCA_000342045.1_MagSO-1_1.0_assembly_report.txt
+cf618b580310e4e39cb7dd08dd25e56d  ./GCA_000342045.1_MagSO-1_1.0_assembly_stats.txt
+07d9f44cb073c72963604b1a234c393b  ./GCA_000342045.1_MagSO-1_1.0_cds_from_genomic.fna.gz
+6e0f11eeb923e36b6d1cfcde936cda20  ./GCA_000342045.1_MagSO-1_1.0_fcs_report.txt
+215fb4f99d08153a3a9a2a3313804c00  ./GCA_000342045.1_MagSO-1_1.0_feature_count.txt
+249b8d364bb750077ec524b2df163fa0  ./GCA_000342045.1_MagSO-1_1.0_feature_table.txt.gz
+4f7b6934923efc5144f473079c24f502  ./GCA_000342045.1_MagSO-1_1.0_genomic.fna.gz
+6cf5bbecae7b53bf97bca69f5bb0a00a  ./GCA_000342045.1_MagSO-1_1.0_genomic.gbff.gz
+2dc25d7a10d63c3d6136627f8a500693  ./GCA_000342045.1_MagSO-1_1.0_genomic.gff.gz
+2eb594c5d2544c88f2b3828c017bd8c9  ./GCA_000342045.1_MagSO-1_1.0_genomic.gtf.gz
+ea1f6dfecc02c09203e6c2545d250b93  ./GCA_000342045.1_MagSO-1_1.0_protein.faa.gz
+15d7a238f5166d93aaa31bbcabe55dd1  ./GCA_000342045.1_MagSO-1_1.0_protein.gpff.gz
+8291a9c7c3d7375df93c83111542e674  ./GCA_000342045.1_MagSO-1_1.0_rna_from_genomic.fna.gz
+1872c0e94bf6934f14b66d28ae197005  ./GCA_000342045.1_MagSO-1_1.0_translated_cds.faa.gz
+ad179265b77d5ce4816b4e2d2867e81d  ./GCA_000342045.1_MagSO-1_1.0_wgsmaster.gbff.gz
