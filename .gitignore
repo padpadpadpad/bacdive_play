@@ -11,3 +11,6 @@ data/gtdb/bac120_metadata.tsv.gz
 
 # Google Docs shortcuts
 *.gdoc
+
+# Credentials
+scripts/bacdive_password.R

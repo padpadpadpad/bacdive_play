@@ -45,9 +45,11 @@ d_spark <- read.csv('data/bacdive_hasLength.csv')
 head(d_spark)
 
 # open API
+source('scripts/bacdive_password.R')
+
 bacdive <- open_bacdive(
   username = 'd.padfieldscfc@gmail.com',
-  password = 'REDACTED'
+  password = bacdive_password
 )
 
 test <- d_spark$bacdiveid[1]
@@ -373,9 +375,11 @@ all_ids <- data.frame(
   )
 
 # open API
+source('scripts/bacdive_password.R')
+
 bacdive <- open_bacdive(
   username = 'd.padfieldscfc@gmail.com',
-  password = 'REDACTED'
+  password = bacdive_password
 )
 
 for (i in 3954:nrow(all_ids)) {

@@ -39,9 +39,11 @@ librarian::shelf(tidyverse, BacDive)
 source('scripts/bacdive_harvester-main/helper_functions.R')
 
 # open API
+source('scripts/bacdive_password.R')
+
 bacdive <- open_bacdive(
   username = 'd.padfieldscfc@gmail.com',
-  password = 'REDACTED'
+  password = bacdive_password
 )
 
 # read in records that have length as defined by sparkql
