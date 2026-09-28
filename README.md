@@ -38,4 +38,4 @@ BacDive/
 
 ## License
 
-This code is licensed under an MIT license and has been developed with the help of GitHub copilot, and potentially other LLMs.
+This code is licensed under an MIT license and has been developed with the help of GitHub copilot, and potentially other LLMs. However, we take responsibility for all of the code here and its reproducibility.
