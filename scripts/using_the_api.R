@@ -1,5 +1,5 @@
-# ---------------------------
-# Purpose of script:
+#----------------------------------
+# Purpose of the script:
 #
 # What this script does:
 # 1.
@@ -7,18 +7,18 @@
 # 3.
 #
 # Author: Dr. Daniel Padfield
+# Date Created: 28 September 2026
 #
-# Date Created:  2025-06-20
+# Daniel Padfield, 2026
+# This code is licensed under an MIT license and has been developed with the help of GitHub copilot, and potentially other LLMs. However, all output has been checked and modified by a human and I take full responsibility for any errors.
 #
-# Copyright (c) Daniel Padfield, 2025
-# This code is licensed under a modified MIT non-AI license. The code and any modifications made to it may not be used for the purpose of training or improving machine learning algorithms, including but not limited to artificial intelligence, natural language processing, or data mining. This condition applies to any derivatives, modifications, or updates based on the Software code. Any usage of the Software in an AI-training dataset is considered a breach of this License.
-# The full license can be found here: https://github.com/padpadpadpad/non-ai-licenses/blob/main/NON-AI-MIT
+#----------------------------------
 #
-# ---------------------------
+# Notes (potentially about software used:
 #
-# Notes:
 #
-# ---------------------------
+#
+#----------------------------------
 
 # if librarian is not installed, install it
 if (!requireNamespace("librarian", quietly = TRUE)) {

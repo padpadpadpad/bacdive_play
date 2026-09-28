@@ -4,3 +4,10 @@ data/gtdb/bac120_metadata.tsv.gz
 
 # macOS
 .DS_Store
+
+# R
+.Rhistory
+.Rproj.user/
+
+# Google Docs shortcuts
+*.gdoc

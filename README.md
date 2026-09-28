@@ -1,15 +1,12 @@
-# BacDive
+# BacDive Play
 
-Integrating bacterial phenotypic data from [BacDive](https://bacdive.dsmz.de/) (morphology, physiology, metabolism) with genomic and taxonomic data from NCBI and [GTDB](https://gtdb.ecogenomic.org/), to explore relationships between bacterial traits, genome features, and phylogeny.
+BacDive is a database containing standardised phenotypic information of cultured bacterial isolates. This allows us to test interesting questions about bacterial ecology and evolution by integrating bacterial phenotypic data from [BacDive](https://bacdive.dsmz.de/) (morphology, physiology, metabolism) with genomic and taxonomic data from NCBI and [GTDB](https://gtdb.ecogenomic.org/).
 
-## Workflow
+For example, does genome size scale with cell size and temperature.
 
-1. **Query BacDive** for bacterial traits and strain records using species names or accessions (`scripts/bacdive_harvester-main/`, `scripts/api_use_new.R`, `scripts/using_the_api.R`).
-2. **Link** BacDive records to NCBI genome assemblies via accession mappings.
-3. **Download** genome assemblies/stats from NCBI (`scripts/ncbi_download.sh`).
-4. **Retrieve genomic and taxonomic context** from GTDB (`data/gtdb/`).
-5. **Wrangle and visualize** trait data across the bacterial phylogeny (`scripts/wrangle_phenotype_data.R`), producing figures in `figures/`.
-6. **Analyze** links between phenotype and genome features (`scripts/check_sequencing_info.R`).
+## Using this folder
+
+This folder is currently highly messy and imperfect. The main script is **wrangle_phenotype_data.R** which does some introductory analyses of the compiled dataset.
 
 ## Repository structure
 
@@ -39,12 +36,6 @@ BacDive/
 └── BacDive.Rproj                  # RStudio project file
 ```
 
-## Data access
-
-Querying BacDive requires an API account: register at https://api.bacdive.dsmz.de and set credentials as expected by `scripts/bacdive_harvester-main/` and the API usage scripts.
-
-Genome downloads use [`ncbi-genome-download`](https://github.com/kblin/ncbi-genome-download) via conda (see `scripts/ncbi_download.sh`).
-
 ## License
 
-Scripts are marked with a modified MIT non-AI license (see individual file headers); this restricts use of the code for training machine learning / AI models.
+This code is licensed under an MIT license and has been developed with the help of GitHub copilot, and potentially other LLMs.
